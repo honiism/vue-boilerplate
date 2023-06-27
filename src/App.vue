@@ -1,7 +1,5 @@
 <template>
-    <div id="app">
-        <router-view :viewport="viewport"/>
-    </div>
+    <router-view :viewport="viewport"/>
 </template>
 
 <script setup>
